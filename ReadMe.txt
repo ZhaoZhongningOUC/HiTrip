@@ -1,0 +1,2 @@
+'Code' includes the model of HiTrip. and we also add the train.py to show how to train HiTrip.
+'dataset' includes two VMS data examples of the trawlers in the East China Sea, the data appeared in the Results Section, and the GFW data.
